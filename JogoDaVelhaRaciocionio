@@ -1,0 +1,15 @@
+montar uma matriz 3x3
+pedir para o jogador colocar a posição da linha e da coluna e verificar se é possivel a jogada e o número esta entre [0,2]
+o computador vai jogar
+verificar se o jogo esta terminado se nao continuar o jogo ate estar todas as casa completas
+verificar se deu empate ou mostrar o vencedor
+
+
+verificar vencedores:
+percorrer o vetor coluna por coluna e linha por linha e ver se existe XXX ou OOO.
+percorrer as diagonais e ver se ter XXX ou OOO
+
+verificar empate:
+se contador dos vencedores = 0 empate
+
+02/11/20
